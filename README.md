@@ -11,3 +11,8 @@
 
 - Frontend framework: React-Native
 - Expo managed workflows.
+
+## : App Demo
+
+For App demo, please refer to the expo link below:
+https://expo.dev/@lionshi/Pronaf?serviceType=classic&distribution=expo-go
